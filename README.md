@@ -1,4 +1,4 @@
-# Node 101: Introduction to Node.js
+# Node 101: Introduction to Node.js _ Edited
 ### Course Syllabus
 
 #### Instructor
