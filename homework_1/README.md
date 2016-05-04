@@ -6,7 +6,9 @@
 - Make a pull request to the class repository
 
 ### Tasks
-Your Name:  
-Your Favorite Color:  
-Your Favorite Food:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Your Name:  Husain Barbhaiwala
+Your Favorite Color:  Blue  
+Your Favorite Food: Thai food
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
