@@ -17,21 +17,21 @@ for (var ix in input) {
 while (operators.length > 0) {
     
     // save the current operator
-    var op = operators.pop();
+    var op = operators.shift();
     
     // switch based on operator
     switch (op) {
         case '+':
-            operands.push(operands.pop() + operands.pop());
+            operands.unshift(operands.shift() + operands.shift());
             break;
         case '-':
-            operands.push(operands.pop() - operands.pop());
+            operands.unshift(operands.shift() - operands.shift());
             break;
         case '*':
-            operands.push(operands.pop() * operands.pop());
+            operands.unshift(operands.shift() * operands.shift());
             break;
         case '/':
-            operands.push(operands.pop() / operands.pop());
+            operands.unshift(operands.shift() / operands.shift());
             break;
     }
 }
