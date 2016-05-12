@@ -6,7 +6,13 @@
 - Make a pull request to the class repository
 
 ### Tasks
+<<<<<<< HEAD
+Your Name:  David Lam
+Your Favorite Color: Green 
+Your Favorite Food: Thai Curry
+=======
 Your Name: Shashank Agarwal
 Your Favorite Color: Depends
 Your Favorite Food: Indian
+>>>>>>> ryanmurakami/master
 
