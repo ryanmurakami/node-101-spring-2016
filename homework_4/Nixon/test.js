@@ -1,7 +1,7 @@
 'use strict';
 
 var colors = require('colors');
-var program = require('./solution');
+var program = require('./solution.js');
 
 function failed(name, message, expected, actual) {
   var output = colors.bold.red('\nTest "%s": Failed --- %s\n');
@@ -80,7 +80,7 @@ function testWrong() {
 }
 
 function testMissing() {
-  var missingJson = Object.assign({}, require('./search_response'));
+  var missingJson = Object.assign({}, require('./search_response.json'));
 
   missingJson.hotelList = missingJson.hotelList.map(function(val, index) {
     switch (index % 5) {
@@ -183,7 +183,7 @@ function testMissing() {
 }
 
 function testGood() {
-  var searchResults = Object.assign({}, require('./search_response'));
+  var searchResults = Object.assign({}, require('./search_response.json'));
   var actual;
 
   try {
