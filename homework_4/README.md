@@ -30,3 +30,6 @@
 6. If the JSON is valid but does not contain the expected hotel information, it should return an empty array.
 7. Running ```test.js``` should pass successfully for your solution.
 
+*******
+We've included a JSON response that is used in the test. Here is the API call that returns that:
+https://www.expedia.com/m/api/hotel/search?priceType=TOTAL_PRICE&city=Seattle&checkInDate=2016-12-01&checkOutDate=2016-12-03&room=2
