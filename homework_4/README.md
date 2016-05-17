@@ -28,3 +28,5 @@
 ```
 5. If the JSON is invalid it should throw an error with the message "BAD JSON"
 6. If the JSON is valid but does not contain the expected hotel information, it should return an empty array.
+7. Running ```test.js``` should pass successfully for your solution.
+
