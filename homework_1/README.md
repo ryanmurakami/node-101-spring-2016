@@ -6,13 +6,6 @@
 - Make a pull request to the class repository
 
 ### Tasks
-<<<<<<< HEAD
-Your Name:Scott Webber  
-Your Favorite Color:Blue  
-Your Favorite Food:Indian
-
-=======
 Your Name:  
 Your Favorite Color:  
 Your Favorite Food:
->>>>>>> master
