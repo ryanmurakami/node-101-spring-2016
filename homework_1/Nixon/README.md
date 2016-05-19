@@ -6,7 +6,6 @@
 - Make a pull request to the class repository
 
 ### Tasks
-Your Name: Shashank Agarwal
-Your Favorite Color: Depends
-Your Favorite Food: Indian
-
+Your Name:  Chris Nixon
+Your Favorite Color:  Orange
+Your Favorite Food: Pizza

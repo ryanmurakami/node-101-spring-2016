@@ -6,13 +6,6 @@
 - Make a pull request to the class repository
 
 ### Tasks
-<<<<<<< HEAD
-Your Name:  Chris Nixon
-Your Favorite Color:  Orange
-Your Favorite Food: Pizza
-=======
-Your Name:    
+Your Name:  
 Your Favorite Color:  
 Your Favorite Food:
->>>>>>> master
-
