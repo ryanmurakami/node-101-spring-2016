@@ -1,7 +1,7 @@
 'use strict';
 
 var colors = require('colors');
-var doMath = require('./barbhaiwala/solution.js');
+var doMath = require('./solution.js');
 
 var failedEquality = 'Actual result value does not equal expected result value.';
 var failedColor = 'Actual result color does not equal expected result color.';
