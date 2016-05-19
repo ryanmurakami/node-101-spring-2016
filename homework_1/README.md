@@ -8,5 +8,5 @@
 ### Tasks
 Your Name:  
 Your Favorite Color:  
-Your Favorite Food:  
+Your Favorite Food:
 
