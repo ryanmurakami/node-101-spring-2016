@@ -6,12 +6,6 @@
 - Make a pull request to the class repository
 
 ### Tasks
-<<<<<<< HEAD
-Your Name:  Kelda A
-Your Favorite Color: Indigo
-Your Favorite Food: Muffaletta
-=======
 Your Name:  
 Your Favorite Color:  
 Your Favorite Food:
->>>>>>> master
