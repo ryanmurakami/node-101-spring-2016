@@ -6,7 +6,6 @@
 - Make a pull request to the class repository
 
 ### Tasks
-Your Name:  Ameesha Gupta aka Batgirl
-Your Favorite Color:  Blue
-Your Favorite Food: Chocolate
-
+Your Name:  
+Your Favorite Color:  
+Your Favorite Food:
