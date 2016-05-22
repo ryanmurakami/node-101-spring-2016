@@ -1,0 +1,14 @@
+{
+  "name": "husain-hotel-list-parser",
+  "version": "1.0.0",
+  "author": {
+    "name": "Husain Barbhaiwala",
+    "email": "hbarbhaiwala@expedia.com"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
