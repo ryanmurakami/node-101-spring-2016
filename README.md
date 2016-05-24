@@ -43,8 +43,8 @@ If you have any issues installing or following any of the above instructions, pl
 
 **5/17 Class 4 Topic:** JSON; Objects; Scope; Errors
 
-**5/24 Class 5 Topics:** Functional JavaScript
- 
+**5/24 Class 5 Topics:** Asynchronous JavaScript
+
 **5/31 Class 6 Topics:** HTTP
 
 **6/7 Class 7 Topic:** Command Line Input

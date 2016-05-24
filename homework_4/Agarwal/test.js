@@ -24,7 +24,7 @@ function testBad() {
   var actual;
 
   try {
-    actual = program.run(invalidJson);
+    actual = program(invalidJson);
   }
   catch (err) {
     if (err.message === 'BAD JSON') {
@@ -56,7 +56,7 @@ function testWrong() {
   var actual;
 
   try {
-    actual = program.run(JSON.stringify(wrongJson));
+    actual = program(JSON.stringify(wrongJson));
   }
   catch (err) {
     return failed(
@@ -112,7 +112,7 @@ function testMissing() {
   var actual;
 
   try {
-    actual = program.run(JSON.stringify(missingJson));
+    actual = program(JSON.stringify(missingJson));
   }
   catch (err) {
     return failed(
@@ -187,7 +187,7 @@ function testGood() {
   var actual;
 
   try {
-    actual = program.run(JSON.stringify(searchResults));
+    actual = program(JSON.stringify(searchResults));
   }
   catch (err) {
     return failed(
