@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+var length = process.argv.length;
+var sum = 0;
+
+for(i=2; i < length; i++) 
+{
+sum += Number(process.argv[i])
+}
+console.log(sum);
+=======
 # Week 2 Homework
 ### Due 5/10
 ### Objectives
@@ -9,3 +19,4 @@
 
 ![learnyoucode direction]
 (https://github.com/ryanmurakami/node-101-spring-2016/blob/master/homework_2/learnyounode.png)
+>>>>>>> master

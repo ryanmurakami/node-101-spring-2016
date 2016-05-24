@@ -18,10 +18,10 @@ function calculate(inputString) {
 
     // loop until no more operators
     while (operators.length > 0) {
-        
+
         // save the current operator
         var op = operators.shift();
-        
+
         // switch based on operator
         switch (op) {
             case '+':
@@ -41,9 +41,9 @@ function calculate(inputString) {
                 break;
         }
     }
-    
+
     var result = operands[0] + ''; //coerces to string type
-    
+
     // colors
     if (operands[0] < 0) {
         return result.red;

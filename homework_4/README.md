@@ -8,7 +8,7 @@
   ```js
   module.exports = function(jsonString) { ... }
   ```
-3. The function should parse the string and create a valid JSON object
+3. The function should parse the string and create a valid JavaScript object
 4. It should then return an array of hotel items with the object format of:
 ```json
 {
