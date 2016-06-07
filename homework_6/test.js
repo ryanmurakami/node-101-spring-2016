@@ -34,7 +34,7 @@ const work = runs.map(run => new Promise((resolve) => {
     run
   });
 
-  Reflect.apply(program.run, null, [callback, ...run]);
+  program.run.apply(null, [callback].concat(run));
 }));
 
 Promise.all(work)
